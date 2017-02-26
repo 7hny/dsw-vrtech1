@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: VR i nowe technologie w grach 1
 description: VR i zastosowanie nowych technologii w grach w oparciu o silnik UE4
 show_downloads: false
+show_footer: false
