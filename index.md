@@ -14,25 +14,6 @@ layout: default
 * [3ds MAX](http://www.autodesk.com/products/3ds-max/overview)
 * [xNormal - narzędzie do wypalania tekstur](http://www.xnormal.net/)
 
-
-# Linki i zasoby
-
-### Technologia VR
-* [Jak działa tracking HTC Vive](http://doc-ok.org/?p=1478)
-* [Problemy techniczne stojce przed technologią VR](http://blogs.valvesoftware.com/abrash/)
-
-### Usability VR
-* [Oculus best practices &#9733;](https://static.oculus.com/documentation/pdfs/intro-vr/latest/bp.pdf)
-* [Leap Motion best practices](https://lm-s-leapdev-amnesia.leapmotion.com/assets/Leap%20Motion%20VR%20Best%20Practices%20Guidelines.pdf)
-
-### Systemy kontroli wersji
-* [Serwis GitHub](https://github.com/)
-* [Serwis BitBucket](https://bitbucket.org/product)
-* [Serwis GitLab](https://gitlab.com)
-* [Git w 15 minut](https://try.github.io/levels/1/challenges/1)
-* [Klient github dla systemu Windows](https://desktop.github.com/)
-* [Git vs SVN](https://svnvsgit.com/)
-
 # Grafika
 
 ### Darmowe zasoby
@@ -95,3 +76,21 @@ layout: default
 * [VR best practices](https://docs.unrealengine.com/latest/INT/Platforms/VR/ContentSetup/)
 * [Dewelopment VR dla różnych platform](https://docs.unrealengine.com/latest/INT/Platforms/VR/index.html)
 * [Mitch's VR Lab - VR w UE4 od podstaw](https://www.youtube.com/channel/UChvlNUgZKmEd-Gul_Tdv8Uw)
+
+# Dodatkwoe materiały
+
+### Technologia VR
+* [Jak działa tracking HTC Vive](http://doc-ok.org/?p=1478)
+* [Problemy techniczne stojce przed technologią VR](http://blogs.valvesoftware.com/abrash/)
+
+### Usability VR
+* [Oculus best practices &#9733;](https://static.oculus.com/documentation/pdfs/intro-vr/latest/bp.pdf)
+* [Leap Motion best practices](https://lm-s-leapdev-amnesia.leapmotion.com/assets/Leap%20Motion%20VR%20Best%20Practices%20Guidelines.pdf)
+
+### Systemy kontroli wersji
+* [Serwis GitHub](https://github.com/)
+* [Serwis BitBucket](https://bitbucket.org/product)
+* [Serwis GitLab](https://gitlab.com)
+* [Git w 15 minut](https://try.github.io/levels/1/challenges/1)
+* [Klient github dla systemu Windows](https://desktop.github.com/)
+* [Git vs SVN](https://svnvsgit.com/)
