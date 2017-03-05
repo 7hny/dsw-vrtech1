@@ -14,9 +14,7 @@ layout: default
 * [3ds MAX](http://www.autodesk.com/products/3ds-max/overview)
 * [xNormal - narzędzie do wypalania tekstur](http://www.xnormal.net/)
 
-# Grafika
-
-### Darmowe zasoby
+# Darmowe zasoby
 * [Sample i muzyka](http://freesound.org/)
 * [Tekstury](http://www.textures.com/)
 * [Substance Share - darmowe materiały Allegorithmic](https://share.allegorithmic.com/)
@@ -27,6 +25,8 @@ layout: default
 * [Mixamo Fuse - generator modeli postaci oraz duże  darmowe repozytorium animacji](https://www.mixamo.com/fuse)
 * [2534 animacji mocap](https://forum.unity3d.com/threads/huge-free-fbx-mocap-library-released.261401/)
 * [Darmowe animacje](http://mocapdata.com/)
+
+# Grafika
 
 ### Physically Based Rendering
 * [Allegorithmic PBR guide vol 1](https://www.allegorithmic.com/system/files/software/download/build/PBR_Guide_Vol.1.pdf)
