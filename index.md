@@ -2,10 +2,10 @@
 layout: default
 ---
 
-&#9733 - Materiały obowiązkowe
+&#9733; - Materiały obowiązkowe
 
 # Software
-* &#9733 [UE4](https://www.unrealengine.com/download)
+* &#9733; [UE4](https://www.unrealengine.com/download)
 * [Quixel Suite - teskturowanie PBR](http://quixel.se/)
 * [Allegorithmic Substance - teskturowanie PBR](https://www.allegorithmic.com/buy/indie)
 * [Photoscan - fotogrametria](http://www.agisoft.com/)
@@ -22,7 +22,7 @@ layout: default
 * [Problemy techniczne stojce przed technologią VR](http://blogs.valvesoftware.com/abrash/)
 
 ### Usability VR
-* &#9733 [Oculus best practices](https://static.oculus.com/documentation/pdfs/intro-vr/latest/bp.pdf)
+* &#9733; [Oculus best practices](https://static.oculus.com/documentation/pdfs/intro-vr/latest/bp.pdf)
 * [Leap Motion best practices](https://lm-s-leapdev-amnesia.leapmotion.com/assets/Leap%20Motion%20VR%20Best%20Practices%20Guidelines.pdf)
 
 ### Systemy kontroli wersji
@@ -54,24 +54,24 @@ layout: default
 
 # UE4
 
-* &#9733 [Podstawy Unreala dla developerów Unity](https://docs.unrealengine.com/latest/INT/GettingStarted/FromUnity/)
-* &#9733 [Importowanie modeli FBX](https://docs.unrealengine.com/latest/INT/Engine/Content/FBX/StaticMeshes/index.html)
+* &#9733; [Podstawy Unreala dla developerów Unity](https://docs.unrealengine.com/latest/INT/GettingStarted/FromUnity/)
+* &#9733; [Importowanie modeli FBX](https://docs.unrealengine.com/latest/INT/Engine/Content/FBX/StaticMeshes/index.html)
 * [Tworzenie normal map](https://docs.unrealengine.com/latest/INT/Engine/Content/Types/Textures/NormalMaps/Creation/)
 * [Przewodnik - importowanie modeli i animacji](https://docs.unrealengine.com/latest/INT/Engine/Content/FBX/)
 
 
 ### Edytor
-* &#9733 [Podstawy obsługi edytora](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1gasd4IcOe9Cx9wHoBB7rxFl/w4XlBKeE46E/index.html)
-* &#9733 [Podstawy tworzenia map](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1gak1_FoAJVrEGiLIploeF3F/cl_eoVfNDKU/index.html)
+* &#9733; [Podstawy obsługi edytora](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1gasd4IcOe9Cx9wHoBB7rxFl/w4XlBKeE46E/index.html)
+* &#9733; [Podstawy tworzenia map](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1gak1_FoAJVrEGiLIploeF3F/cl_eoVfNDKU/index.html)
 * [Krótkie i treściwe tutoriale przedstawiające rozmaite aspekty UE4](https://www.youtube.com/user/TeslaUE4/videos)
 
 ### Materiały i shadery
-* &#9733 [Wprowadzenie do materiałów](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1gbQjgY0nDwZNYe_N8IcYWS-/lngF4VVNER4/index.html)
+* &#9733; [Wprowadzenie do materiałów](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1gbQjgY0nDwZNYe_N8IcYWS-/lngF4VVNER4/index.html)
 
 ### Blueprinty
 * [Niezbędnik Blueprint](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1ga2b_ZaJoaR5dLHOFw4-MMl/zaVY5A0hqiI/index.html)
 * [Krótki opis podstawowych funkcji Blueprint](https://learnunrealengine.com/blueprint-node-reference-guide/)
-* &#9733 [Wprowadzenie do Blueprintów](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1gY35ezlSQn1sWOGfh4C7ewO/EFXMW_UEDco/index.html)
+* &#9733; [Wprowadzenie do Blueprintów](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1gY35ezlSQn1sWOGfh4C7ewO/EFXMW_UEDco/index.html)
 * [Blueprint Quickshot - krótkie tutoriale](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1gZg3dTMetmsfm_s4lb4-Tg0/uJbfSWzfg7c/index.html)
 
 
