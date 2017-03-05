@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Software
-* [UE4](https://www.unrealengine.com/download)
+* :star: [UE4](https://www.unrealengine.com/download)
 * [Quixel Suite](http://quixel.se/)
 * [Allegorithmic Substance](https://www.allegorithmic.com/buy/indie)
 * [Photoscan](http://www.agisoft.com/)
@@ -19,7 +19,7 @@ layout: default
 * [Problemy techniczne stojce przed technologią VR](http://blogs.valvesoftware.com/abrash/)
 
 ### Usability VR
-* [Oculus best practices](https://static.oculus.com/documentation/pdfs/intro-vr/latest/bp.pdf)
+* :star: [Oculus best practices](https://static.oculus.com/documentation/pdfs/intro-vr/latest/bp.pdf)
 * [Leap Motion best practices](https://lm-s-leapdev-amnesia.leapmotion.com/assets/Leap%20Motion%20VR%20Best%20Practices%20Guidelines.pdf)
 
 ### Systemy kontroli wersji
@@ -49,17 +49,17 @@ layout: default
 # UE4
 
 ### Edytor
-* [Podstawy obsługi edytora](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1gasd4IcOe9Cx9wHoBB7rxFl/w4XlBKeE46E/index.html)
-* [Podstawy tworzenia map](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1gak1_FoAJVrEGiLIploeF3F/cl_eoVfNDKU/index.html)
+* :star: [Podstawy obsługi edytora](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1gasd4IcOe9Cx9wHoBB7rxFl/w4XlBKeE46E/index.html)
+* :star: [Podstawy tworzenia map](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1gak1_FoAJVrEGiLIploeF3F/cl_eoVfNDKU/index.html)
 * [Krótkie i treściwe tutoriale przedstawiające rozmaite aspekty UE4](https://www.youtube.com/user/TeslaUE4/videos)
 
 ### Materiały i shadery
-* [Wprowadzenie do materiałów](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1gbQjgY0nDwZNYe_N8IcYWS-/lngF4VVNER4/index.html)
+* :star: [Wprowadzenie do materiałów](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1gbQjgY0nDwZNYe_N8IcYWS-/lngF4VVNER4/index.html)
 
 ### Blueprinty
 * [Niezbędnik Blueprint](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1ga2b_ZaJoaR5dLHOFw4-MMl/zaVY5A0hqiI/index.html)
 * [Krótki opis podstawowych funkcji Blueprint](https://learnunrealengine.com/blueprint-node-reference-guide/)
-* [Wprowadzenie do Blueprintów](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1gY35ezlSQn1sWOGfh4C7ewO/EFXMW_UEDco/index.html)
+* :star: [Wprowadzenie do Blueprintów](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1gY35ezlSQn1sWOGfh4C7ewO/EFXMW_UEDco/index.html)
 * [Blueprint Quickshot - krótkie tutoriale](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1gZg3dTMetmsfm_s4lb4-Tg0/uJbfSWzfg7c/index.html)
 
 
