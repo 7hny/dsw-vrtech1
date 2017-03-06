@@ -67,9 +67,9 @@ layout: default
 * [Przewodnik po lightmappingu](https://docs.unrealengine.com/latest/INT/Engine/Content/Types/StaticMeshes/LightmapUnwrapping/)
 
 ### Blueprinty
-* [Niezbędnik Blueprint](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1ga2b_ZaJoaR5dLHOFw4-MMl/zaVY5A0hqiI/index.html)
+* [Niezbędnik Blueprint &#9733;](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1ga2b_ZaJoaR5dLHOFw4-MMl/zaVY5A0hqiI/index.html)
 * [Krótki opis podstawowych funkcji Blueprint](https://learnunrealengine.com/blueprint-node-reference-guide/)
-* [Wprowadzenie do Blueprintów &#9733;](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1gY35ezlSQn1sWOGfh4C7ewO/EFXMW_UEDco/index.html)
+* [Wprowadzenie do Blueprintów](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1gY35ezlSQn1sWOGfh4C7ewO/EFXMW_UEDco/index.html)
 * [Blueprint Quickshot - krótkie tutoriale](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1gZg3dTMetmsfm_s4lb4-Tg0/uJbfSWzfg7c/index.html)
 
 
