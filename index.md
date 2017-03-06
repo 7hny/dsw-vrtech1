@@ -64,6 +64,7 @@ layout: default
 ### Grafika
 * [Wprowadzenie do materiałów w UE4 &#9733;](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1gbQjgY0nDwZNYe_N8IcYWS-/lngF4VVNER4/index.html)
 * [ART - narzędzia do animacji i rigowania](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1gb2ZoKzTApbv3LvhaXJ9elg/)
+* [Przewodnik po lightmappingu](https://docs.unrealengine.com/latest/INT/Engine/Content/Types/StaticMeshes/LightmapUnwrapping/)
 
 ### Blueprinty
 * [Niezbędnik Blueprint](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1ga2b_ZaJoaR5dLHOFw4-MMl/zaVY5A0hqiI/index.html)
