@@ -48,6 +48,7 @@ layout: default
 * [Teksturowanie w 3ds MAX](https://knowledge.autodesk.com/support/3ds-max/getting-started/caas/CloudHelp/cloudhelp/2017/ENU/3DSMax-Tutorial/files/GUID-B26EFD30-0A9B-4B22-897F-CB259AFBA592-htm.html)
 * [Teksturowanie w Quixel Suite](https://quixel.se/tutorials/)
 * [Tworzenie modularnych asetów](http://www.thiagoklafke.com/modularenvironments.html)
+* [Wprowadzenie do 3DS Max](https://www.youtube.com/playlist?list=PL65F8B8755BFDAA1E)
 
 # UE4
 
@@ -62,6 +63,8 @@ layout: default
 * [Podstawy tworzenia map &#9733;](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1gak1_FoAJVrEGiLIploeF3F/cl_eoVfNDKU/index.html)
 * [Krótkie i treściwe tutoriale przedstawiające rozmaite aspekty UE4](https://www.youtube.com/user/TeslaUE4/videos)
 * [Vertex snapping](https://docs.unrealengine.com/latest/INT/Engine/Actors/Transform/)
+* [Wprowadzenie do geometrii BSP](https://www.youtube.com/watch?v=MEkwlDMSSAE)
+* [Modyfikacja punktu Pivot](https://www.youtube.com/watch?v=N1h5mMviSKs)
 
 ### Grafika
 * [Wprowadzenie do materiałów w UE4 &#9733;](https://docs.unrealengine.com/latest/INT/Videos/PLZlv_N0_O1gbQjgY0nDwZNYe_N8IcYWS-/lngF4VVNER4/index.html)
