@@ -100,3 +100,4 @@ layout: default
 * [Git w 15 minut](https://try.github.io/levels/1/challenges/1)
 * [Klient github dla systemu Windows](https://desktop.github.com/)
 * [Git vs SVN](https://svnvsgit.com/)
+* [Git i UE4 &#9733;](https://wiki.unrealengine.com/Git_source_control_(Tutorial))
