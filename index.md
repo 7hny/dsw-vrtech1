@@ -100,6 +100,7 @@ layout: default
 * [Serwis BitBucket](https://bitbucket.org/product)
 * [Serwis GitLab](https://gitlab.com)
 * [Git w 15 minut](https://try.github.io/levels/1/challenges/1)
+* [SourceTree - prosty w obsłudze klient Git](https://www.sourcetreeapp.com/)
 * [Klient github dla systemu Windows](https://desktop.github.com/)
 * [Git vs SVN](https://svnvsgit.com/)
 
