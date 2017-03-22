@@ -94,10 +94,12 @@ layout: default
 * [Leap Motion best practices](https://lm-s-leapdev-amnesia.leapmotion.com/assets/Leap%20Motion%20VR%20Best%20Practices%20Guidelines.pdf)
 
 ### Systemy kontroli wersji
+* [Git i UE4 &#9733;](https://wiki.unrealengine.com/Git_source_control_(Tutorial))
+* [Kontrola wersji w UE4 &#9733;](https://docs.unrealengine.com/latest/INT/Engine/UI/SourceControl/index.html#statusicons)
 * [Serwis GitHub](https://github.com/)
 * [Serwis BitBucket](https://bitbucket.org/product)
 * [Serwis GitLab](https://gitlab.com)
 * [Git w 15 minut](https://try.github.io/levels/1/challenges/1)
 * [Klient github dla systemu Windows](https://desktop.github.com/)
 * [Git vs SVN](https://svnvsgit.com/)
-* [Git i UE4 &#9733;](https://wiki.unrealengine.com/Git_source_control_(Tutorial))
+
