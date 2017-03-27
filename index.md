@@ -9,7 +9,7 @@ layout: default
 * [Quixel Suite - teskturowanie PBR](http://quixel.se/)
 * [Allegorithmic Substance - teskturowanie PBR](https://www.allegorithmic.com/buy/indie)
 * [Photoscan - fotogrametria](http://www.agisoft.com/)
-* [World Machine - tworzenei terenu](http://www.world-machine.com/)
+* [World Machine - tworzenie terenu](http://www.world-machine.com/)
 * [Photoshop](http://www.adobe.com/products/photoshop.html)
 * [3ds MAX](http://www.autodesk.com/products/3ds-max/overview)
 * [xNormal - narzędzie do wypalania tekstur](http://www.xnormal.net/)
