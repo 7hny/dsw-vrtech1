@@ -83,7 +83,15 @@ layout: default
 * [Dewelopment VR dla różnych platform](https://docs.unrealengine.com/latest/INT/Platforms/VR/index.html)
 * [Mitch's VR Lab - VR w UE4 od podstaw](https://www.youtube.com/channel/UChvlNUgZKmEd-Gul_Tdv8Uw)
 
-# Dodatkwoe materiały
+### Multibounced Skylight
+Zastąp plik w katalogu `Engine/Binaries/Win64/UnrealLightmass.exe`
+* [4.15](https://drive.google.com/open?id=0B70dGuti6jq3QWlQd3BCUXFPZU0)
+* [4.16](https://drive.google.com/open?id=0B70dGuti6jq3Wjc5WURweEk4TVU)
+* [4.17](https://drive.google.com/open?id=0B70dGuti6jq3b3ZvazlkLU9NOHM)
+* [Demo scene](https://drive.google.com/open?id=0B70dGuti6jq3UVY4emlaczRDUGs)
+
+
+# Dodatkowe materiały
 
 ### Technologia VR
 * [Jak działa tracking HTC Vive](http://doc-ok.org/?p=1478)
