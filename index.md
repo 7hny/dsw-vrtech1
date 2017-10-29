@@ -112,3 +112,7 @@ Zastąp plik w katalogu `Engine/Binaries/Win64/UnrealLightmass.exe`
 * [Klient github dla systemu Windows](https://desktop.github.com/)
 * [Git vs SVN](https://svnvsgit.com/)
 
+# Praca zaliczeniowa - moduł 2
+* [Pliki źródłowe projektu](https://github.com/7hny/dsw-vrtech1/blob/master/DSW_VR_2017.zip?raw=true)
+
+
